@@ -1,0 +1,46 @@
+{
+	"name": "eInput 🕹️",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-key-pressed",
+					"objectClass": "Keyboard",
+					"sid": 380752879298835,
+					"parameters": {
+						"key": 70
+					}
+				}
+			],
+			"actions": [
+				{
+					"callFunction": "toggleFullscreen",
+					"sid": 770910772242642
+				}
+			],
+			"sid": 998139535145544
+		},
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-key-pressed",
+					"objectClass": "Keyboard",
+					"sid": 549258236894417,
+					"parameters": {
+						"key": 82
+					}
+				}
+			],
+			"actions": [
+				{
+					"callFunction": "restartLevel",
+					"sid": 503569366536851
+				}
+			],
+			"sid": 234297924968142
+		}
+	],
+	"sid": 708055557732005
+}

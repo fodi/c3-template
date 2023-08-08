@@ -1,0 +1,206 @@
+{
+	"name": "vMacros 🗃️",
+	"events": [
+		{
+			"eventType": "group",
+			"disabled": false,
+			"title": "Templates",
+			"description": "",
+			"isActiveOnStart": false,
+			"children": [
+				{
+					"eventType": "comment",
+					"text": "Basics"
+				},
+				{
+					"eventType": "variable",
+					"name": "NOTHING",
+					"type": "number",
+					"initialValue": "-1",
+					"comment": "",
+					"isStatic": false,
+					"isConstant": true,
+					"sid": 458778205145273
+				},
+				{
+					"eventType": "variable",
+					"name": "NO",
+					"type": "number",
+					"initialValue": "0",
+					"comment": "",
+					"isStatic": false,
+					"isConstant": true,
+					"sid": 714189115847289
+				},
+				{
+					"eventType": "variable",
+					"name": "YES",
+					"type": "number",
+					"initialValue": "1",
+					"comment": "",
+					"isStatic": false,
+					"isConstant": true,
+					"sid": 839259088565645
+				},
+				{
+					"eventType": "comment",
+					"text": "Directions"
+				},
+				{
+					"eventType": "variable",
+					"name": "DIR_UP",
+					"type": "string",
+					"initialValue": "Up",
+					"comment": "",
+					"isStatic": false,
+					"isConstant": true,
+					"sid": 124194810173557
+				},
+				{
+					"eventType": "variable",
+					"name": "DIR_Down",
+					"type": "string",
+					"initialValue": "Down",
+					"comment": "",
+					"isStatic": false,
+					"isConstant": true,
+					"sid": 990623432833432
+				},
+				{
+					"eventType": "variable",
+					"name": "DIR_Left",
+					"type": "string",
+					"initialValue": "Left",
+					"comment": "",
+					"isStatic": false,
+					"isConstant": true,
+					"sid": 210593903454545
+				},
+				{
+					"eventType": "variable",
+					"name": "DIR_Right",
+					"type": "string",
+					"initialValue": "Right",
+					"comment": "",
+					"isStatic": false,
+					"isConstant": true,
+					"sid": 181191500187961
+				},
+				{
+					"eventType": "comment",
+					"text": "Layers"
+				},
+				{
+					"eventType": "variable",
+					"name": "LAYER_Main",
+					"type": "string",
+					"initialValue": "Main",
+					"comment": "",
+					"isStatic": false,
+					"isConstant": true,
+					"sid": 498473122161421
+				},
+				{
+					"eventType": "comment",
+					"text": "Templates"
+				},
+				{
+					"eventType": "variable",
+					"name": "TEMPLATE_Template1",
+					"type": "string",
+					"initialValue": "Template1",
+					"comment": "",
+					"isStatic": false,
+					"isConstant": true,
+					"sid": 638143935300090
+				},
+				{
+					"eventType": "comment",
+					"text": "Timers"
+				},
+				{
+					"eventType": "variable",
+					"name": "TIMER_Timer1",
+					"type": "string",
+					"initialValue": "Timer1",
+					"comment": "",
+					"isStatic": false,
+					"isConstant": true,
+					"sid": 115542694698711
+				},
+				{
+					"eventType": "comment",
+					"text": "Tweens"
+				},
+				{
+					"eventType": "variable",
+					"name": "TWEEN_Tween1",
+					"type": "string",
+					"initialValue": "Tween1",
+					"comment": "",
+					"isStatic": false,
+					"isConstant": true,
+					"sid": 394963960666831
+				},
+				{
+					"eventType": "comment",
+					"text": "Animations"
+				},
+				{
+					"eventType": "variable",
+					"name": "ANIM_Animation1",
+					"type": "string",
+					"initialValue": "Animation1",
+					"comment": "",
+					"isStatic": false,
+					"isConstant": true,
+					"sid": 454848727386968
+				},
+				{
+					"eventType": "comment",
+					"text": "Signals"
+				},
+				{
+					"eventType": "variable",
+					"name": "SIGNAL_Signal1",
+					"type": "string",
+					"initialValue": "Signal1",
+					"comment": "",
+					"isStatic": false,
+					"isConstant": true,
+					"sid": 774070709637436
+				},
+				{
+					"eventType": "comment",
+					"text": "Roles"
+				},
+				{
+					"eventType": "variable",
+					"name": "ROLE_Role1",
+					"type": "string",
+					"initialValue": "Role1",
+					"comment": "",
+					"isStatic": false,
+					"isConstant": true,
+					"sid": 989964992463301
+				},
+				{
+					"eventType": "comment",
+					"text": "Object types (names)"
+				},
+				{
+					"eventType": "variable",
+					"name": "OT_ObjectType1",
+					"type": "string",
+					"initialValue": "ObjectType1",
+					"comment": "",
+					"isStatic": false,
+					"isConstant": true,
+					"sid": 430027059636207
+				}
+			],
+			"sid": 731591257483641
+		}
+	],
+	"sid": 359473117755789
+}
