@@ -1,6 +1,6 @@
 {
 	"projectFormatVersion": 1,
-	"savedWithRelease": 35000,
+	"savedWithRelease": 35800,
 	"name": "FodiTemplate",
 	"runtime": "c3",
 	"useWorker": "auto",
@@ -114,7 +114,7 @@
 					"_fAudio 🎵",
 					"_fEnemies 👾",
 					"_fInput 🕹️",
-					"fLevel 🎬",
+					"_fLevel 🎬",
 					"_fUI 📟",
 					"fUtilities 🧰"
 				],
@@ -230,10 +230,10 @@
 	},
 	"properties": {
 		"description": "",
-		"version": "5",
-		"author": "",
-		"authorEmail": "",
-		"authorWebsite": "",
+		"version": "6",
+		"author": "Lasermagnet Games",
+		"authorEmail": "games@lasermagnet.com",
+		"authorWebsite": "https://lasermagnet.com",
 		"appId": "",
 		"pixelRounding": false,
 		"zAxisScale": "regular",
