@@ -1,6 +1,6 @@
 {
 	"projectFormatVersion": 1,
-	"savedWithRelease": 35800,
+	"savedWithRelease": 37900,
 	"name": "FodiTemplate",
 	"runtime": "c3",
 	"useWorker": "auto",
@@ -112,9 +112,8 @@
 			{
 				"items": [
 					"_fAudio 🎵",
-					"_fEnemies 👾",
 					"_fInput 🕹️",
-					"_fLevel 🎬",
+					"fLevel 🎬",
 					"_fUI 📟",
 					"fUtilities 🧰"
 				],
@@ -129,6 +128,13 @@
 				],
 				"subfolders": [],
 				"name": "Values"
+			},
+			{
+				"items": [
+					"aEnemies 👾"
+				],
+				"subfolders": [],
+				"name": "Actions"
 			}
 		]
 	},
@@ -228,9 +234,13 @@
 			}
 		]
 	},
+	"flowcharts": {
+		"items": [],
+		"subfolders": []
+	},
 	"properties": {
 		"description": "",
-		"version": "6",
+		"version": "7",
 		"author": "Lasermagnet Games",
 		"authorEmail": "games@lasermagnet.com",
 		"authorWebsite": "https://lasermagnet.com",
